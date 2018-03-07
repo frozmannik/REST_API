@@ -20,12 +20,22 @@ Install last version of Postman:
 https://www.getpostman.com/apps
 
 Import requests for Postman:
+
   open Import as it shows on the pic
   <p align="center">
     <img src="https://github.com/frozmannik/REST_API/blob/master/Screenshot%20from%202018-03-07%2015-39-55.png" >
   </p>
-  copy following link: https://www.getpostman.com/collections/90294222199bc6358318
-
+  copy following link: https://www.getpostman.com/collections/90294222199bc6358318 into 'Import From Link'
+  
+<p align="center">
+    <img src="https://github.com/frozmannik/REST_API/blob/master/Screenshot%20from%202018-03-07%2015-43-18.png" >
+  </p>
+  
+  Press Import
+  
+  <p align="center">
+    <img src="https://github.com/frozmannik/REST_API/blob/master/Screenshot%20from%202018-03-07%2015-43-30.png" >
+  </p>
 
 
 Run the application:
