@@ -46,24 +46,19 @@ Import requests for Postman:
  
 # Requests description:
 * 
-    <img src="https://github.com/frozmannik/REST_API/blob/master/pics/Screenshot%20from%202018-03-07%2016-03-11.png" >
-  </p>  shows a list of all items
+    <img src="https://github.com/frozmannik/REST_API/blob/master/pics/Screenshot%20from%202018-03-07%2016-03-11.png" > shows a list of all items
   
 * 
-    <img src="https://github.com/frozmannik/REST_API/blob/master/pics/Screenshot%20from%202018-03-07%2016-03-21.png" >
-  </p>
+    <img src="https://github.com/frozmannik/REST_API/blob/master/pics/Screenshot%20from%202018-03-07%2016-03-21.png" >  shows a description of specific title
   
 * 
-    <img src="https://github.com/frozmannik/REST_API/blob/master/pics/Screenshot%20from%202018-03-07%2016-03-28.png" >
-  </p>
+    <img src="https://github.com/frozmannik/REST_API/blob/master/pics/Screenshot%20from%202018-03-07%2016-03-28.png" > add new title if such title doesn't exist, if it exists shows an error
   
 * 
-    <img src="https://github.com/frozmannik/REST_API/blob/master/pics/Screenshot%20from%202018-03-07%2016-03-35.png" >
-  </p>
+    <img src="https://github.com/frozmannik/REST_API/blob/master/pics/Screenshot%20from%202018-03-07%2016-03-35.png" > add new title if such title doesn't exist, if it exist modify it
   
 * 
-    <img src="https://github.com/frozmannik/REST_API/blob/master/pics/Screenshot%20from%202018-03-07%2016-03-41.png" >
-  </p>
+    <img src="https://github.com/frozmannik/REST_API/blob/master/pics/Screenshot%20from%202018-03-07%2016-03-41.png" > delete title if such title exist
   
 Run the application:
 ```
