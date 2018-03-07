@@ -16,15 +16,16 @@ Install flask-admin using `pip3`:
 pip3 install flask-admin
 ```
 
-Last version of Postman: 
+Install last version of Postman: 
 https://www.getpostman.com/apps
 
 Import requests for Postman:
-copy following link: https://www.getpostman.com/collections/90294222199bc6358318
-to Import as it shows on the pic
-<p align="center">
-  <img src="https://github.com/frozmannik/REST_API/blob/master/Screenshot%20from%202018-03-07%2015-39-55.png" >
-</p>
+  open Import as it shows on the pic
+  <p align="center">
+    <img src="https://github.com/frozmannik/REST_API/blob/master/Screenshot%20from%202018-03-07%2015-39-55.png" >
+  </p>
+  copy following link: https://www.getpostman.com/collections/90294222199bc6358318
+
 
 
 Run the application:
