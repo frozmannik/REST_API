@@ -16,6 +16,9 @@ Install flask-admin using `pip3`:
 pip3 install flask-admin
 ```
 
+Last version of Postman: 
+https://www.getpostman.com/apps
+
 
 Run the application:
 ```
