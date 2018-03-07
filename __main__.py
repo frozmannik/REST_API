@@ -8,7 +8,7 @@ import os
 
 app = Flask(__name__)
 api = Api(app)
-admin = Admin(app)
+#admin = Admin(app)
 
 # storage of news ( could be replacsed by database )
 file_path = os.path.abspath(os.path.join('data.json'))
