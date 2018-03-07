@@ -63,7 +63,7 @@ Import requests for Postman:
 # Run the application:
 Open a terminal in project folder
 ```
-$ python project.py 
+$ python __main__.py 
  Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 ```
 Open a Postman: </p>
