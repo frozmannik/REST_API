@@ -1,4 +1,4 @@
-# Small REST API framework for Python 3
+# Small REST API for Python 3
 
 This repository contains code that is created for REST APIs with Flask and Python.
 
@@ -6,10 +6,16 @@ This repository contains code that is created for REST APIs with Flask and Pytho
 
 # Quickstart
 
-Install Flask using `pip`:
+Install Flask using `pip3`:
 ```bash
 $ pip3 install Flask
 ```
+
+Install flask-admin using `pip3`:
+```
+pip3 install flask-admin
+```
+
 
 Run the application:
 ```
