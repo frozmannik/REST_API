@@ -36,6 +36,15 @@ Import requests for Postman:
   <p align="center">
     <img src="https://github.com/frozmannik/REST_API/blob/master/Screenshot%20from%202018-03-07%2015-43-30.png" >
   </p>
+  
+  Now we can see list of requests
+ 
+ <p align="center">
+    <img src="https://github.com/frozmannik/REST_API/blob/master/Screenshot%20from%202018-03-07%2015-50-13.png" >
+  </p>
+  
+  
+  
 
 
 Run the application:
