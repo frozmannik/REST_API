@@ -81,7 +81,7 @@ class ItemList(Resource):
     def get(self):
         return {'items': items}
 
-api.add_resource(Item, '/item/<string:title>') # http:127.0.0.1:5000/item/rolf
+api.add_resource(Item, '/item/<string:title>') # http:127.0.0.1:5000/item/titel1
 api.add_resource(ItemList, '/items')
 
-app.run(port=5000, debug=True)
+app.run(port=5000, debug=False) # change debug on True for debugin
