@@ -67,4 +67,4 @@ $ python project.py
  Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 ```
 Open a Postman: </p>
-Use a command to operate/test
+* Selecet needed request and press <i>send</i>
