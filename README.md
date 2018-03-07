@@ -67,4 +67,9 @@ $ python project.py
  Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 ```
 Open a Postman: </p>
-* Selecet needed request and press <i>send</i>
+* Selecet needed request and press <i>send</i> </p>
+<img src="https://github.com/frozmannik/REST_API/blob/master/pics/Screenshot%20from%202018-03-07%2016-26-35.png" >
+
+* If request(POST and PUT) requires a JSON enter it in <i>Body</i> menu how it shows  <img src="https://github.com/frozmannik/REST_API/blob/master/pics/Screenshot%20from%202018-03-07%2016-26-35.png" >
+
+
