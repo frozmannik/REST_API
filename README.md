@@ -45,23 +45,23 @@ Import requests for Postman:
   
  
 # Requests description:
-* <p align="right">
+* 
     <img src="https://github.com/frozmannik/REST_API/blob/master/pics/Screenshot%20from%202018-03-07%2016-03-11.png" >
   </p>  shows a list of all items
   
-* p align="right">
+* 
     <img src="https://github.com/frozmannik/REST_API/blob/master/pics/Screenshot%20from%202018-03-07%2016-03-21.png" >
   </p>
   
-* p align="right">
+* 
     <img src="https://github.com/frozmannik/REST_API/blob/master/pics/Screenshot%20from%202018-03-07%2016-03-28.png" >
   </p>
   
-* p align="right">
+* 
     <img src="https://github.com/frozmannik/REST_API/blob/master/pics/Screenshot%20from%202018-03-07%2016-03-35.png" >
   </p>
   
-* p align="right">
+* 
     <img src="https://github.com/frozmannik/REST_API/blob/master/pics/Screenshot%20from%202018-03-07%2016-03-41.png" >
   </p>
   
