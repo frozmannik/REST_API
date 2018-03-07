@@ -61,9 +61,10 @@ Import requests for Postman:
     <img src="https://github.com/frozmannik/REST_API/blob/master/pics/Screenshot%20from%202018-03-07%2016-03-41.png" > delete title if such title exist
   
 # Run the application:
+Open a terminal in project folder
 ```
 $ python project.py 
  Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 ```
-Open a Postman:
+Open a Postman: </p>
 Use a command to operate/test
