@@ -2,8 +2,8 @@ REST APIs with Flask and Python
 This repository contains code that is created for REST APIs with Flask and Python.
 
 
-Quickstart
+# Quickstart
 
 Install API Star:
-
-$ pip3 install apistar
+```bash
+$ pip3 install Flask
