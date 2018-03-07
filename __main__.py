@@ -1,6 +1,6 @@
 from flask import Flask, request
 from flask_restful import Resource, Api, reqparse
-from flask_admin import Admin  # dont have enough time to make a nice gui with it ( use postman instead)
+#from flask_admin import Admin  # dont have enough time to make a nice gui with it ( use postman instead)
 
 import json
 import os
